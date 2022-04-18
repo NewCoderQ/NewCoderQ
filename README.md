@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me: funnyqzq@gmail.com
+📫 How to reach me: funnyqzq@gmail.com 
 🌱 I’m currently learning 3D pose estimation and physical imitation.
 ![NewCoderQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewCoderQ&show_icons=true&theme=tokyonight)
